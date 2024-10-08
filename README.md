@@ -12,9 +12,13 @@
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify">
     </a>
   </p>
+  
 <h4>About me :</h4>
+
 <p></p>
-<p align="center">Hello, I am <strong>Maxtream_09</strong>, my hobby is making WhatsApp bots and AI</p>
+
+<p align="center">Hello, I am <strong>Maxtream_09</strong>, my hobby is making WhatsApp bots and AI.</p>
+
   <p></p>
 
 - 🔭 I’m currently working on [Vikaru-Bot](https://github.com/Maxz-09/Ar-Vikaru-Bot)
@@ -29,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxz-09&show_icons=true&theme=dark&locale=en" alt="maxz-09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxz-09&show_icons=true&theme=dark" alt="maxz-09" /></p>
-</div>
