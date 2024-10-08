@@ -8,7 +8,7 @@
   </a>
 </div>
     <p>
-    <a href="https://open.spotify.com/playlist/5iPjgCLzMr8r5VYmUOV6tp?si=P3kAL42wQNa9Lwu6Wr4hLA&pi=nOm_V5fnSv6FY">
+    <a href="https://open.spotify.com/playlist/5iPjgCLzMr8r5VYmUOV6tp?si=o7CcYcPUTEuQ6meL3ULv7A&pi=Z9k4J5XKQYuHV">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify">
     </a>
   </p>
