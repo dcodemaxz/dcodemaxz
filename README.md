@@ -37,9 +37,9 @@
 
 - 🔭 I’m currently working on [Vikaru-Bot](https://github.com/Maxz-09/Ar-Vikaru-Bot)
 
-- 🌱 I’m currently learning **Java script**
+- 🌱 I’m currently learning Java script
 
-- 👥 I am a burden to the family 
+- 👥 I’am a burden to the family 
 
 <h4>My stats :</h4>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxz-09&label=Profile%20views&color=ff0000&style=flat" alt="maxz-09" /> </p>
