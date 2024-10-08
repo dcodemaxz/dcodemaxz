@@ -8,7 +8,7 @@
   </a>
 </div>
     <p>
-    <a href="https://open.spotify.com/user/31253dtz6tzyra5ewpcgpipeuefy">
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DWZd79rJ6a7lp?si=oxWkRjkuTyaWqAHd-y6SrA&pi=0OeirgtDRt-dA">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify">
     </a>
   </p>
