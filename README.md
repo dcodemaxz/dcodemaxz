@@ -17,7 +17,7 @@
 </picture>
   
   <p align="center">
-  <img src="https://img.shields.io/github/followers/Maxz-09?label=Follow%20Me&style=social" />
+  <img src="https://img.shields.io/github/followers/Maxz-09?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Maxz-09?style=social" />
 </p>
   
