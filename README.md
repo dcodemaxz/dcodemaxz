@@ -50,7 +50,7 @@
 
 <h4>About me :</h4>
 
-- 🔭 I’m currently working on [Vikaru-Bot](https://github.com/Maxz-09/Ar-Vikaru-Bot)
+- 🔭 I’m currently working on [Vikaru-Bot](https://github.com/Maxz-09/Vikaru-Bot)
 
 - 😴 Sleeping is my main activity
 
