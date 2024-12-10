@@ -32,7 +32,7 @@
 ---
 <p></p>
    <p>
-   <p align="center">Hello, I am <strong>Maxtream_09</strong>, my hobby is making WhatsApp bots and AI.</p>
+   <p align="center">Hello!, I'am <strong>Max</strong>, My hobby is developing WhatsApp bots, Ai and Frontend.</p>
 <p></p>
 
 ---
@@ -45,15 +45,7 @@
 
 - 🔭 I’m currently working on [Vikaru-Bot](https://github.com/Maxz-09/Vikaru-Bot)
 
-- 😴 Sleeping is my main activity
-
-<h4>Language :</h4>
-
-  <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+- 😴 Sleeping is my main activity!
 
 <h4>My stats :</h4>
 
@@ -63,5 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Maxz-09&show_icons=true&theme=tokyonight" width=400 alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxz-09&theme=tokyonight" width=400 alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxz-09&layout=compact&theme=tokyonight" width=400 alt="Top Languages" />
+</p>
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 </div>
