@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://">
-    <img alt="Github" height="200px" src="https://files.catbox.moe/8mvnpf.jpg">
+    <img alt="Github" height="250px" width="250px" src="https://files.catbox.moe/8mvnpf.jpg">
   </a>
 
 <picture>
@@ -35,13 +35,6 @@
    <p align="center">Hello, I am <strong>Maxtream_09</strong>, my hobby is making WhatsApp bots and AI.</p>
 <p></p>
 
-
-  <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
 ---
   <a href="https://open.spotify.com/playlist/5iPjgCLzMr8r5VYmUOV6tp?si=o7CcYcPUTEuQ6meL3ULv7A&pi=Z9k4J5XKQYuHV">
    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify">
@@ -53,6 +46,14 @@
 - 🔭 I’m currently working on [Vikaru-Bot](https://github.com/Maxz-09/Vikaru-Bot)
 
 - 😴 Sleeping is my main activity
+
+<h4>Language :</h4>
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 <h4>My stats :</h4>
 
