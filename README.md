@@ -49,11 +49,9 @@
 
 <h4>My stats :</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxz-09&label=Profile%20views&color=ff0000&style=flat" alt="maxz-09" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=maxz-09&label=Profile%20views&color=ff0000&style=flat" alt="maxz-09" /> </p>
 <div>    
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxz-09&show_icons=true&theme=tokyonight" width=400 alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxz-09&theme=tokyonight" width=400 alt="GitHub Streak Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxz-09&layout=compact&theme=tokyonight" width=400 alt="Top Languages" />
 </p>
 
