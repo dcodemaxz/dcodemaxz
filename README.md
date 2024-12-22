@@ -51,7 +51,7 @@
     </tbody>
 </table>
 
-<h4>About others :</h4>
+<h4>Others :</h4>
 
 <a href="https://open.spotify.com/playlist/5iPjgCLzMr8r5VYmUOV6tp?si=o7CcYcPUTEuQ6meL3ULv7A&pi=Z9k4J5XKQYuHV">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jlxsrwpbteh2m34d5pacfgihfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify"></a>
