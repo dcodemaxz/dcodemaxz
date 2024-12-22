@@ -45,7 +45,7 @@
             <td>TempMail is a tool that can generate emails and receive messages.</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Maxz-09/CampPhish">CamPhish</a></td>
+            <td><a href="https://github.com/Maxz-09/CamPhish">CamPhish</a></td>
             <td>CamPhish is a web phishing tool that can access the camera..</td>
         </tr>
     </tbody>
