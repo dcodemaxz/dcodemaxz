@@ -33,7 +33,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/dcodemaxz/Vikaru-Bot">Vikaru-Bot</a></td>
+            <td><a href="https://github.com/dcodemaxz/vikaru-menu">Vikaru-Bot</a></td>
             <td>Vikaru-Bot is a WhatsApp Autoresponder bot and is combined with Tasker and Java script.</td>
         </tr>
         <tr>
