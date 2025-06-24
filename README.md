@@ -3,7 +3,7 @@
 <div align="center">
   <img alt="Image" style="max-width: 100%; height: auto;" src="https://files.catbox.moe/8mvnpf.jpg"
 
-<a href="https://open.spotify.com/playlist/5iPjgCLzMr8r5VYmUOV6tp?si=o7CcYcPUTEuQ6meL3ULv7A&pi=Z9k4J5XKQYuHV">
+<a href="https://open.spotify.com/playlist/31PgySOzA9HsxXRYktQLkX?si=0fbbebcf70b44dcd&pt=e446db41735c5d7f1736d5a7edda3b8e">
   <img style="max-width: 100%; height: auto;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jlxsrwpbteh2m34d5pacfgihfa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify"></a>
 
 <p align="center">
