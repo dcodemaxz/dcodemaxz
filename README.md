@@ -16,6 +16,8 @@
   
 <a href="https://git.io/typing-svg"><img style="max-width: 100%; height: auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=0095BB&center=true&width=435&lines=Eating+%F0%9F%8D%9B;Working+%F0%9F%92%BC;Learning+%F0%9F%93%9A;Gaming+%F0%9F%8E%AE;Coding+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Sleeping+%F0%9F%98%B4" alt="Typing SVG" /></a>
 
+---
+
 <h3 id="projects">💻 Projects</h3>
 <div style="overflow-x: auto;">
   <table style="width: 100%; border-collapse: collapse;">
