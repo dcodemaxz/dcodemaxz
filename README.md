@@ -30,7 +30,7 @@
     <tbody>
       <tr>
         <td><a href="https://github.com/dcodemaxz/vikaru-menu">Vikaru-Bot</a></td>
-        <td>Vikaru-Bot is a WhatsApp Autoresponder bot and is combined with Tasker and Java script.</td>
+        <td>Vikaru-Bot is a WhatsApp bot that uses JavaScript combined with Tasker and Autoresponder.</td>
       </tr>
       <tr>
         <td><a href="https://github.com/dcodemaxz/IP-LOC">IP-LOC</a></td>
@@ -50,7 +50,7 @@
 
 ---
 
-<h3>🌐 Others</h3>
+<h3>🌐 Statistics</h3>
 
 <p align="center">
   <img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcodemaxz&layout=compact&theme=tokyonight" width="400px" alt="Top Languages" /></p>
