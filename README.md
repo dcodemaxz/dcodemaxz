@@ -37,11 +37,11 @@
         <td>WhatsApp bot library fork from whiskeysockets.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dcodemaxz/uploader">Installer</a></td>
+        <td><a href="https://github.com/dcodemaxz/vikaru-installer">Installer</a></td>
         <td>Easy installation script for Vikaru-Bot project.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dcodemaxz/vikaru-installer">Uploader</a></td>
+        <td><a href="https://github.com/dcodemaxz/uploader">Uploader</a></td>
         <td>The "tourl" cloud storage system supported by the Vikaru-Bot project.</td>
       </tr>
     </tbody>
