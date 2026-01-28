@@ -95,16 +95,12 @@
        alt="Dashboard Analytics"/>
 </div>
 
----
-
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dcodemaxz&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" 
        alt="Activity Graph" 
        style="max-width: 100%; height: auto;" />
 </div>
-
----
 
 <div align="center" style="margin: 30px 0;">
   <picture>
