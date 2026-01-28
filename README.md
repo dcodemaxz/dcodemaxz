@@ -74,7 +74,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/dcodemaxz/github-portofolio">👤 Web Portofolio</a></td>
-        <td>ToolKit spam, tracking, doxing, banned, etc.</td>
+        <td>Modern portfolio web integration with GitHub..</td>
       </tr>
       <tr>
         <td><a href="https://github.com/dcodemaxz/ascii">🎁 Web Surprise</a></td>
