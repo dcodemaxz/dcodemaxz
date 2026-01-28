@@ -88,12 +88,23 @@
 ---
 
 <div align="center" style="margin: 40px 0; padding: 0 15px;">
-  <h2 style="margin-bottom: 25px; font-size: 1.5em;">📊 RepoBeats Analytics</h2>
+  <h2 style="margin-bottom: 25px; font-size: 1.5em;">📊 Dashboard Analytics</h2>
 
   <img src="https://repobeats.axiom.co/api/embed/8dac388910be60e97a4fbc41984599ee286b806a.svg" 
        style="max-width: 100%; width: 700px; height: auto;" 
-       alt="Repobeats Analytics"/>
+       alt="Dashboard Analytics"/>
 </div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dcodemaxz&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" 
+       alt="Activity Graph" 
+       style="max-width: 100%; height: auto;" />
+</div>
+
+---
 
 <div align="center" style="margin: 30px 0;">
   <picture>
