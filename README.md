@@ -52,17 +52,33 @@
       </tr>
     </thead>
     <tbody>
+    <tr>
+        <td><a href="https://github.com/dcodemaxz/arctryx">🔥 ToolKit Spam</a></td>
+        <td>ToolKit spam, tracking, doxing, banned, etc.</td>
+      </tr>
       <tr>
-        <td><a href="https://github.com/dcodemaxz/Vikaru-Bot">🤖 Bot Wa</a></td>
+        <td><a href="https://github.com/dcodemaxz/Vikaru-Bot">🤖 WhatsApp Bot</a></td>
         <td>Vikaru-Bot is a WhatsApp bot that has many useful tools and AI.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dcodemaxz/vikaru-baileys">🔌 Baileys</a></td>
+        <td><a href="https://github.com/dcodemaxz/vikaru-baileys">🔌 Baileys Modified</a></td>
         <td>WhatsApp bot library fork from whiskeysockets.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dcodemaxz/arctryx">🔥 Arctryx</a></td>
+        <td><a href="https://github.com/dcodemaxz/makeInMemoryStore">📁 makeInMemoryStore</a></td>
+        <td>makeInMemoryStote baileys module replacement.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dcodemaxz/vikaru-uploader">📤 Uploader Plugin</a></td>
+        <td>Vikaru-Bot support module to become a database.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dcodemaxz/github-portofolio">👤 Web Portofolio</a></td>
         <td>ToolKit spam, tracking, doxing, banned, etc.</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/dcodemaxz/ascii">🎁 Web Surprise</a></td>
+        <td>Simple web for surprise with ascii.</td>
       </tr>
       <tr>
     </tbody>
