@@ -57,7 +57,7 @@
         <td>ToolKit spam, tracking, doxing, banned, etc.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/dcodemaxz/Vikaru-Bot">🤖 WhatsApp Bot</a></td>
+        <td><a href="https://github.com/dcodemaxz/vikaru-bot">🤖 WhatsApp Bot</a></td>
         <td>Vikaru-Bot is a WhatsApp bot that has many useful tools and AI.</td>
       </tr>
       <tr>
